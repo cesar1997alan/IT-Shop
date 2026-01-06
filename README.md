@@ -17,7 +17,7 @@ Proyecto de práctica: maqueta de e-commerce usando HTML y CSS (Grid).
 ##  Cómo ejecutarlo
 1. Clona este repositorio
 2. Abre `index.html` en tu navegador
-   - (recomendado) usa Live Server en VS Code
+   - (recomendacion) usa Live Server en VS Code
 
 
 ##  Autor
