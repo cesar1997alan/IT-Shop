@@ -20,7 +20,7 @@ Proyecto de práctica: maqueta de e-commerce usando HTML y CSS (Grid).
    - (recomendacion) usa Live Server en VS Code
 
 
-##  Autor
+##  Desarrollado por 
 Cesar Alan Gonzalez Ruiz  
 LinkedIn: Cesar Alan Gonzalez Ruiz  (https://www.linkedin.com/in/cesar-alan-gonzalez-ruiz-35ab42372)  
 GitHub: https://github.com/cesar1997alan
